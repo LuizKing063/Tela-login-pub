@@ -1,0 +1,17 @@
+{
+  "name": "projeto-estagio",
+  "version": "1.0.0",
+  "description": "Sistema de bar",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --no-source-map --watch assets/sass:assets/css"
+  },
+  "keywords": [
+    "Pub System"
+  ],
+  "author": "Luiz Gustavo",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.49.10"
+  }
+}
